@@ -163,8 +163,8 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
 
 
 ## 📊 GitHub Stats
-![Vraj's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vani134&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vani134&layout=compact&theme=radical)
+![Vraj's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaani134&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaani134&layout=compact&theme=radical)
 
 ---
 
