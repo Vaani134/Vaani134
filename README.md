@@ -142,7 +142,7 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
 
 ---
 
-## � Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -161,7 +161,9 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani134&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
-## 📈 GitHub Commit Graph
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaani134&theme=radical&hide_border=true"/>
@@ -171,10 +173,8 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaani134&theme=radical&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaani134&color=blueviolet&style=flat-square"/>
 </p>
 
-<p align="center"><i>"Security is not a product, it's a process — and I'm here for the whole journey."</i></p>
+<p align="center"><i>"Security is not a product, it's a process and I'm here for the whole journey."</i></p>
