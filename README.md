@@ -161,6 +161,11 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani134&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
+
+## 📊 GitHub Stats
+![Vraj's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vraj-maheshwari&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vraj-maheshwari&layout=compact&theme=radical)
+
 ---
 
 ## 📈 GitHub Activity
