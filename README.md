@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Vani Parmar 👋</h1>
+<h1 align="center">Hi, I'm Vani Parmar 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast · Secure App Developer · CTF Explorer</b><br/>
-  <i>Building things that are hard to break — and breaking things to make them stronger.</i>
+  <b>Software Developer · Web Applications · Search & Security</b><br/>
+  <i>Building secure, practical, and scalable solutions with a strong interest in backend development and cybersecurity.</i>
 </p>
 
 <p align="center">
@@ -13,87 +13,76 @@
 
 ---
 
-## 💫 About Me
+## 🌟 About Me
 
-I'm a final-year **B.Tech student in Agricultural Information Technology** at AAU, Anand — but don't let the major fool you. My real passion lives at the intersection of **cybersecurity, secure software development, and network analysis**.
+I am a final-year B.Tech student in Agricultural Information Technology at AAU, Anand, with a growing focus on software development, secure application design, and cybersecurity. My work sits at the intersection of backend engineering, web applications, and security-minded development.
 
-I've interned at cybersecurity firms, built tools that scan networks and manage secrets, and I'm currently working on backend systems at **BrainBean Technolabs**. I don't just write code — I write code that's hard to exploit.
+I have worked on projects involving network analysis, secure authentication, vulnerability assessment, and backend systems, and I am currently building practical solutions at BrainBean Technolabs.
 
-- 🔐 Focused on **threat detection, vulnerability assessment & secure app development**
-- 🛠️ Currently building backend systems with **PHP Laravel** at BrainBean Technolabs
-- 🎯 Goal: Land a role in **cybersecurity or secure systems development**
-- 🏃‍♀️ University Women Athletics Champion — yes, I run fast in real life too
+- 🔐 Interested in secure application development and threat-aware engineering
+- 🛠️ Currently working with PHP, Laravel, MySQL, and Python
+- 🎯 Open to opportunities in backend development, web applications, and cybersecurity
+- 🏃‍♀️ Proud athlete and student leader with a strong balance of technical and personal discipline
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔍 Web-Based Reconnaissance Tool
-> Non-intrusive OSINT tool for asset discovery and threat intelligence
+> A passive reconnaissance and intelligence tool for asset discovery and analysis.
 
-- Gathers DNS, WHOIS, and subdomain data without probing the target
-- Integrates **Shodan, VirusTotal, URLScan** for passive intelligence
-- Exports correlated findings as structured **JSON / CSV / PDF** reports
-- **Stack:** Python, Flask, JS, DNSPython, WHOIS, Nmap, ReportLab
-
----
+- Gathers DNS, WHOIS, and subdomain information without intrusive probing
+- Integrates services such as Shodan, VirusTotal, and URLScan
+- Exports results in structured JSON, CSV, and PDF formats
+- Stack: Python, Flask, JavaScript, DNSPython, WHOIS, Nmap, ReportLab
 
 ### 🔑 Password Manager
-> Secure credential vault with AES encryption and master-password access
+> A secure credential management application with encryption and authentication workflows.
 
-- AES-encrypted storage with secure authentication workflows
-- Clean **MVC architecture** for maintainable backend code
-- Built during AICTE cybersecurity internship at InternPro
-- **Stack:** Python, Flask, SQLAlchemy, MVC
-
----
+- Implements AES-based encryption and protected access flows
+- Built with a clear MVC-style backend structure
+- Developed during an internship focused on cybersecurity and secure application design
+- Stack: Python, Flask, SQLAlchemy, SQLite
 
 ### 🖥️ Advanced Network Scanner
-> GUI-based network scanner with vulnerability mapping
+> A GUI-based network scanner for host discovery, port analysis, and vulnerability mapping.
 
-- Detects hosts, open ports, and OS fingerprints using **Nmap**
-- Maps vulnerabilities via a custom local database
-- Exports reports in **JSON, PDF, and CSV**
-- **Stack:** Python, PyQt5, Nmap, Multithreading
-
----
+- Detects active hosts, open ports, and OS-level characteristics using Nmap
+- Maps findings to a local vulnerability database
+- Supports report export in JSON, CSV, and PDF formats
+- Stack: Python, PyQt5, Nmap, Multithreading
 
 ### 💬 LAN Chat System
-> Secure real-time messaging over local networks
+> A real-time messaging application designed for secure local communication.
 
-- Flask-based chat app with real-time message exchange
-- **CAPTCHA + OTP login** for layered authentication
-- Secured sessions and communication channels
-- **Stack:** Python, Flask, SQLAlchemy, SQLite
+- Includes layered authentication with CAPTCHA and OTP-based access
+- Supports session security and safe communication handling
+- Built using Flask and SQLite for a lightweight local deployment
+- Stack: Python, Flask, SQLAlchemy, SQLite
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 👨‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 
-### 🔐 Cybersecurity
+### Web & Backend
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![DVWA](https://img.shields.io/badge/DVWA-red?style=for-the-badge)
 
-### 🌐 Web & Backend
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Databases
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-
-### ⚙️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -103,46 +92,37 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
 ## 💼 Experience
 
 ### Backend Developer Intern — BrainBean Technolabs
-`Jan 2026 – Present` · PHP, Laravel, MySQL, Python
+Jan 2026 – Present · PHP, Laravel, MySQL, Python
 
-- Working on inventory & sales management systems
-- Implemented **embedding-based semantic search** and **passkey authentication**
-- Hands-on with database design, search optimization, and secure auth flows
+- Working on inventory and sales management systems
+- Implemented semantic search and passkey-based authentication features
+- Focused on secure backend development, database design, and search optimization
 
 ### Cybersecurity Intern — Hacklearn
-`Aug 2025 – Dec 2025` · Kali Linux, Nmap, Metasploitable, DVWA
+Aug 2025 – Dec 2025 · Kali Linux, Nmap, Metasploitable, DVWA
 
-- Performed vulnerability scanning, penetration testing, and web app security assessments
-- Practiced identifying, testing, and documenting security flaws in controlled environments
+- Performed vulnerability scanning and web application security assessments
+- Explored penetration testing and security documentation in controlled environments
 
 ### Cybersecurity Virtual Intern — InternPro (AICTE)
-`Jun 2025 – Jul 2025` · Python, Flask, GitHub
+Jun 2025 – Jul 2025 · Python, Flask, GitHub
 
-- Led development of a secure **Password Manager** with AES encryption
-- Collaborated on project planning, documentation, and problem-solving
+- Built a secure password manager with AES encryption
+- Contributed to project planning, documentation, and collaborative development
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Highlights
 
 - Cyber Security Course — The Tech Unique
 - Geodata Processing using Python & ML — IIRS
 - Cyber Security Job Simulations — Deloitte, TCS, Telstra, AIG, ANZ, CBRE, TATA, HP, MasterCard, GIS
 - HackOrbit Nation Hackathon 2025 — MITS, Gwalior
+- University Women Athletics Champion 2024–25 and 2025–26
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 University Women Athletics Champion 2024–25 & 2025–26 (100m, 200m, Long Jump, 4×100 Relay, Discus Throw)
-- � District Level Skating Champion U-17 — 2020, 2022, 2024, 2025
-- 🏔️ Basic Mountaineering Course — A Grade
-- 🎖️ NSS Certified Student Volunteer
-- 🏛️ College Secretary — AIASA
-
----
-
-## 🐍 Contribution Snake
+## 🐍 GitHub Activity
 
 <p align="center">
   <picture>
@@ -152,34 +132,17 @@ I've interned at cybersecurity firms, built tools that scan networks and manage 
   </picture>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vaani134&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaani134&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
-
-
-## 📊 GitHub Stats
-![Vraj's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vaani134&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaani134&layout=compact&theme=radical)
-
----
-
-## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaani134&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaani134&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaani134&color=blueviolet&style=flat-square"/>
 </p>
 
-<p align="center"><i>"Security is not a product, it's a process and I'm here for the whole journey."</i></p>
+<p align="center"><i>Security is not a product; it is a process, and I am excited to keep building in that direction.</i></p>
